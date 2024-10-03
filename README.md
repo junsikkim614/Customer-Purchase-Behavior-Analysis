@@ -1,6 +1,6 @@
 # Customer Purchase Behavior Analysis
 
-##### This project analyzes customer purchasing patterns to classify and predict what products they are likely to buy based on demographic and behavioral factors. The dataset includes customer attributes such as age, gender, purchase history, and payment method, among others.
+This project analyzes customer purchasing patterns to classify and predict what products they are likely to buy based on demographic and behavioral factors. The dataset includes customer attributes such as age, gender, purchase history, and payment method, among others.
 
 **Skills used:** Python, Pandas, Data Cleaning, Classification, Regression, Clustering, Association Rule Mining
 
